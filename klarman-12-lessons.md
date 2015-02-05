@@ -1,5 +1,5 @@
 # Seth Klarman's 12 Lessons for Investing
-### (Full story via FT)[1]
+### [Full story via FT][1]
 
 Compiled into list form 
 
@@ -19,4 +19,4 @@ Compiled into list form
 Seth Klarman is a value investor and portfolio manager of the investment partnership The Baupost Group LLC. This year is the 50th anniversary of Warren Buffett taking control of his investment vehicle, Berkshire Hathaway
 
 
-[1][http://www.ft.com/intl/cms/s/0/6ab48700-a898-11e4-ad01-00144feab7de.html?siteedition=intl#slide0]
+[1]: http://www.ft.com/intl/cms/s/0/6ab48700-a898-11e4-ad01-00144feab7de.html?siteedition=intl#slide0
