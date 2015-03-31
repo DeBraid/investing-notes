@@ -1,11 +1,15 @@
 # The Loses Game 
 ## by Charles Ellis
 
-> Among those who've had a wonderful life: two kinds of people, those who know they were lucky, those who haven't figured it out.
+> Contrary to their oft articulated goal of outperforming the market averages, investment managers are not beating the market: The market is beating them.
+
+Portfolio managers failing to produce positive absolute rates of return, they are also failing to produce positive *relative* rates of return.
+
 
 Podcast exerts:
   
 Life itself is unfair.  To JFK: "Through the Catacysm"
+> Among those who've had a wonderful life: two kinds of people, those who know they were lucky, those who haven't figured it out.
 
 Fees are the big number.
 
