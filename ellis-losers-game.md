@@ -1,5 +1,6 @@
 # The Loses Game 
 ## by Charles Ellis
+From CFA Inst. http://www.cfapubs.org/doi/pdf/10.2469/faj.v51.n1.1865
 
 > Contrary to their oft articulated goal of outperforming the market averages, investment managers are not beating the market: The market is beating them.
 
