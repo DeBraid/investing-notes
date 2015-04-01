@@ -22,7 +22,7 @@ Assets already exist, you are buying the returns.
 
 Holy shit, fees are 15% of returns, but 1% of assets!
 
-10bps get an Index Fund.  What is the incremental cost over the commodity product?  90bps.
+10bps get an Index Fund.  What if the incremental cost over the commodity product?  90bps.
 
 What about the excess return for the best manager: maybe, avg 15bps (HERO-LEVEL) over average.  So the fee is 85% of the returns.
 
