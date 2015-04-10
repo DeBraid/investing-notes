@@ -7,8 +7,8 @@ From CFA Inst. http://www.cfapubs.org/doi/pdf/10.2469/faj.v51.n1.1865
 Portfolio managers failing to produce positive absolute rates of return, they are also failing to produce positive *relative* rates of return.
 
 
-Podcast exerts:
-  
+Podcast http://media.bloomberg.com/bb/avfile/Masters_in_Business/v3uKbjjVFqsw.mp3  
+
 Life itself is unfair.  To JFK: "Through the Catacysm"
 > Among those who've had a wonderful life: two kinds of people, those who know they were lucky, those who haven't figured it out.
 
