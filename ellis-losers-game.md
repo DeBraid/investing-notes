@@ -31,3 +31,6 @@ What is bad manager? Then the fee is INFINITE as a fraction of incremental value
 1.  Fees are much higher than people realize.
 2.  Return success does not repeat, in fact it mean reverts.
 
+
+
+Understand your own skill set, and understand the competition.  Key to success in life is finding competition you know you can beat.
