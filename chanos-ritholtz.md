@@ -3,48 +3,48 @@
 
 ## What is Short Selling? 
 
-Really forensic accounting.  Fundamental short selling has its roots in detecting abnormalities in operations or financials or both.
+Really forensic accounting.  Fundamental short selling has its roots in detecting abnormalities in operations or financials or both. Short sellers create a hedge (insurance policies) that pays polite premiums. 
+
+Interestingly, both common myth knocking short selling are not accurate.  It is neither true that you can lose an infinite amount of money (since you can invest in hedge funds a limited partner and risk only the capital you have contributed) and that you can only get 100% return (since gains from the initial investment can be re-invested, increasing your leverage on the trade without deploy any new cash capital).
 
 > Enron was essentially a leveraged hedge fund with a pipeline.  They would trade anything.
 
-Exposed the largest security frauds in history: Baldwin Piano (selling obscure insurance contracts).  Enron -- mark to market accounting (favourable regulation for energy company).
+Exposed the largest security frauds in history: Baldwin Piano (selling obscure insurance contracts). Then, Enron -- where *mark to model* accounting (favourable regulation for energy company).
+
+Odd accounting + only earning 6% RoI in a market that was booming.  People were also paying 6x NAV for this relatively slow growth.  They had merchant banking arm that would mark their gains on the income line, but losses were held as discontinued assets and buried. 
 
 *Warning signals*: Combo of insider selling + executive departures.
+
+## Blame the Short Sellers
+
+Bankers when to congress during the crisis and asked for relaxed account rules (allow us to mark to market) and ban on short selling.  
+
+> Willful blindness.
+
+To Chanos this was a major tell, what he teachers his students at Yale -- willful blindness -- that bankers were in DEEP trouble since all they wanted to do was hide the facts and blame vilify short sellers.  
 
 ## Buyback are overrated
 
 At the best of times, buy backs should be avoided. There are many reasons for this, but fundamentally the math is NOT in favour of CEOs encouraging buybacks. 
 
-Given the average pre-tax return on capital in corporate America is mid-to-teens versus stocks which typically return ~6% per year.  Thus when buying back stocks the company management is implicitly supporting the outperformance of the broader market relative to their own company!   They are signaling investors that no internal project exists that would yield returns in excess of the market. By buying back stock you are signaling that nothing internal   and the Only earning 6% pre-tax on capital.  Why would you pay 6x NAV (6% RoE) -- no!
+Given the average pre-tax return on capital in corporate America is mid-to-teens versus stocks which typically return ~6% per year, buybacks implicitly purport outperformance of broader market relative to their own company!   
 
-accounting wins and losses differently.
+They are signaling investors that no internal project(s) exists that would yield returns in excess of the stock market. 
 
-Matching similar gains and losses.
+## Accounting wins and losses differently.
 
-gains marked thru operating income line,
-losses held as discontinued asset, for a year, then disregarded as extrordiary event.
+Gains marked thru operating income line, losses held as discontinued asset, for a year, then disregarded as extrordiary event.  Put losers below operating income line, by depreciating them.
 
-put losers below operating income line, by depreciating them.
-
-odd footnotes: executive set up entities, where Sr Exec fo company is trading with them. How can you be counter party to yourself? 
+Odd footnotes: Enron executives set up entities, where Sr Exec of the Company is trading with them. They were essentially counterparties to themselves? 
 
 McKinsey came up with the idea (accounting gimmick) to do the above, and sell to themselves.
 
-short sellers -- create a hedge (insurance policies), that pays polite premiums. 
 
-Short selling hedge funds is effectively an insurance business. 
+So hide, obfuscate, and distract.  Not acknowledge their profligate lending.
 
+Willful blindness in financial history class.  Case based of investment fraud (back to 1690's).  See Yale class taught by Chanos, book "Blame the Shorts" where throughout history anyone who profits from anothers loss is made a villain, despite the reality of investing = zero sum game.  
 
-Bankers when to congress: 
-
--- relax account rules (allow us to mark to market)
--- ban short selling
-
-So hide, obfusicate, and distract.  Not acknowledge their prfilgate lending.
-
-Willful blindness in financial history class.  Case based of investment fraud (back to 1690's).  See Yale class taught by Chanos.
-
-Virtually all major frauds have been uncovered by journalists, short sellers.  Not auditors or regulators.
+> Virtually all major frauds have been uncovered by journalists, short sellers.  Not auditors or regulators.
 
 Buybacks 
 
