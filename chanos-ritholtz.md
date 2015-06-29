@@ -1,20 +1,21 @@
 # Jim Chanos on Masters in Business w/ Barry Ritholtz 
-
+### Recorded Aug 14, 2014
 
 ## What is Short Selling? 
 
 Really forensic accounting.  Fundamental short selling has its roots in detecting abnormalities in operations or financials or both.
 
-Exposed the largest security frauds in history: Baldwin Piano (selling obscure insurance contracts).  Enron -- mark to market accounting (favourable regulation for energy company).
-
-Combo of insider selling + executive departures = TROUBLE
-
 > Enron was essentially a leveraged hedge fund with a pipeline.  They would trade anything.
 
+Exposed the largest security frauds in history: Baldwin Piano (selling obscure insurance contracts).  Enron -- mark to market accounting (favourable regulation for energy company).
 
-## Buyback
+*Warning signals*: Combo of insider selling + executive departures.
 
-Only earning 6% pre-tax on capital.  Why would you pay 6x NAV (6% RoE) -- no!
+## Buyback are overrated
+
+At the best of times, buy backs should be avoided. There are many reasons for this, but fundamentally the math is NOT in favour of CEOs encouraging buybacks. 
+
+Given the average pre-tax return on capital in corporate America is mid-to-teens versus stocks which typically return ~6% per year.  Thus when buying back stocks the company management is implicitly supporting the outperformance of the broader market relative to their own company!   They are signaling investors that no internal project exists that would yield returns in excess of the market. By buying back stock you are signaling that nothing internal   and the Only earning 6% pre-tax on capital.  Why would you pay 6x NAV (6% RoE) -- no!
 
 accounting wins and losses differently.
 
@@ -45,8 +46,6 @@ Willful blindness in financial history class.  Case based of investment fraud (b
 
 Virtually all major frauds have been uncovered by journalists, short sellers.  Not auditors or regulators.
 
-"Blame the Shorts" (book reco)
-
 Buybacks 
 
 "every CEO thinks their stock is undervalued"
@@ -65,9 +64,25 @@ M&A -- replacing capex (capital spending or R&D) -- this should be deducted from
 
 Revenues are bolstered by big aqcistions that done with debt.  R&D not expensed, but capitalized, and thus earnings are overstated.  (Depreciate their acquisitions, rather then expensive R&D).
 
-Ability to Herg Greenberg 'cookie-jar' the earning through aquisiotns. 
+Ability to Herg Greenberg 'cookie-jar' the earning through acquisitions. 
 
+## CHINA
 
-Buybacks: 
+Everything we saw that was bad in China in 2010, is x2 as bad now.  60 billion sq ft.  now 2x that amount.  More debt, less growth.  Idea that farmers moving into the city is flawed since the 
 
-CEOs are buying the 
+50% investment to GDP is the model.  If it takes 2 years to finish a project, 1/4 of GDP rolls off the books every year since that investment is transient. 
+
+Bulk of the GDP from investment means that the economy is being driven by something which cannot be sustained.  It needs to be replaced with something organic... like consumption. 
+
+> Net exports in China are 12% of GDP, now ~0.  Thus China as mega-exporter is not accurate.  The story a giant government funded property boom. 
+
+Chinese banking system is built on quicksand.  Bad loans all over the place, not likely that non-performing loans are < 1% as stated. 
+
+## History of Finance?
+
+Nature of finance as large % of corporate profits is somewhat self-defeating.  Bailouts prohibited market clearing during the GFC of 2008-09.
+
+Blocking creative destruction leads to a monstrous rube goldberg machine that is the modern banking system.  Auto companies were good models of capitalism during this period.  
+
+> Industry got bankruptcy, finance gets bailouts.
+
