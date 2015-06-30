@@ -27,7 +27,7 @@ To Chanos this was a major tell, what he teachers his students at Yale -- willfu
 
 At the best of times, buy backs should be avoided. There are many reasons for this, but fundamentally the math is NOT in favour of CEOs encouraging buybacks. 
 
-Given the average pre-tax return on capital in corporate America is mid-to-teens versus stocks which typically return ~6% per year, buybacks implicitly purport outperformance of broader market relative to their own company!   
+Given the average pre-tax return on capital in corporate America is mid-to-high teens versus stocks which typically return ~6% per year, buybacks implicitly purport outperformance of broader market relative to their own company!   
 
 They are signaling investors that no internal project(s) exists that would yield returns in excess of the stock market. 
 
