@@ -1,4 +1,4 @@
-#Theory of Disruption Clay Christenssen 
+# Theory of Disruption Clay Christenssen 
 https://www.youtube.com/watch?v=rpkoCZ4vBSI
 
 ## Uses case study of steel industry! 
