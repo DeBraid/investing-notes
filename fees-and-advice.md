@@ -28,9 +28,13 @@ So at this point, by just avoiding fees, you're way ahead.  The *second advantag
 
 ## Needle and Haystacks, on stacks on stacks on stacks.
 
-As Charley points out in this wonderful [MiB podcast, ~26 min mark][3] the odds of a super-smart, super human advisor beating the market and his peers in hyper-competitive financial industry is very low.  Compounding this problem is that fact that you or I as an investor has the burden of finding these star investors in advance!  There is no reliable way of predicting the markets, nor is it possible to predict which market participants will rise to superstar status.
+As Charley points out in this wonderful [MiB podcast, ~26 min mark][3] the odds of a super-smart, super human advisor beating the market and his peers in hyper-competitive financial industry is very low.  Compounding this problem is that fact that you or I as an investor has the burden of finding these star investors in advance!  
+
+> There is no reliable way of predicting the markets, nor is it possible to predict which market participants will rise to superstar status.
 
 This shows up in the data of investor returns.  Amazingly the market return (of say TSX or S&P index fund) is nearly DOUBLE that of the actual return that accrues to average investors (~6 vs 3 % per ann over the past 30yrs).  
+
+Mr. Ellis draws the analogy of the best athlete you know personally playing in the NFL this Sunday.  It doesn't matter how good on is locally, or in the school gym, with the big boys, you will get killed.  The same thing applies with investing: the market is really crowded with exceptional, hard-working people.  Most trading activity (> 90%) is done by professionals who have more info and insights that average investor by factor of 10-1000x.  Don't play a game you know you can't win.   Oh, Mr. Ellis has another legendary essay on that too: [Winning the Losers Game][5].
 
 This is a combo of high fees and bad behaviour (getting out at bottoms and buying at tops), but I was really shocked to learn this.  By anecdote, the best performing accounts of all-time at Fidelity (trillions in assets) are the ones that we're literally FORGOTTEN and completely untouched.  Often this occurred during decade-long legal battles, estates settlements and other bizarre cases of people forgetting they had money.  That these forgotten accounts had the best performance is telling of behavioural sabotage that plagues return rates.
 
@@ -39,3 +43,4 @@ This is a combo of high fees and bad behaviour (getting out at bottoms and buyin
 [2]: https://github.com/DeBraid/investing-notes/blob/master/ellis-losers-game.md
 [3]: http://www.ritholtz.com/blog/2015/04/masters-in-business-charley-ellis/
 [4]: https://blogs.cfainstitute.org/investor/2012/06/28/investment-management-fees-are-much-higher-than-you-think/
+[5]: https://www.ifa.com/pdfs/ellis_charles_the_losers_game_1975.pdf
