@@ -38,9 +38,15 @@ Mr. Ellis draws the analogy of the best athlete you know personally playing in t
 
 This is a combo of high fees and bad behaviour (getting out at bottoms and buying at tops), but I was really shocked to learn this.  By anecdote, the best performing accounts of all-time at Fidelity (trillions in assets) are the ones that we're literally FORGOTTEN and completely untouched.  Often this occurred during decade-long legal battles, estates settlements and other bizarre cases of people forgetting they had money.  That these forgotten accounts had the best performance is telling of behavioural sabotage that plagues return rates.
 
+## Where are the Customers Yachts? 
+
+A great [tweet][6] from Cliff Asness sums up the active management debate: 
+
+> This article encourages the super-wealthy to teach their kids to be active managers. A great cure for inequality! 
 
 [1]: https://research.tdwaterhouse.ca/research/public/ETFsProfile/Summary/ca/VUS 
 [2]: https://github.com/DeBraid/investing-notes/blob/master/ellis-losers-game.md
 [3]: http://www.ritholtz.com/blog/2015/04/masters-in-business-charley-ellis/
 [4]: https://blogs.cfainstitute.org/investor/2012/06/28/investment-management-fees-are-much-higher-than-you-think/
 [5]: https://www.ifa.com/pdfs/ellis_charles_the_losers_game_1975.pdf
+[6]: https://twitter.com/Cimmerian999/status/649947415726956544
