@@ -6,7 +6,7 @@ Inspired by one of the [greatest essays][4] in the history of finance and invest
 
 > Investment Fees should be calculated relative to returns, not assets.
 
-When stated as a percentage of assets, average fees do look low — a little over 1% of assets for individuals and a little less than one-half of 1% for institutional investors. But the investors *already own those assets*, so investment management fees should really be based on what investors are getting in the returns that managers produce. 
+When stated as a percentage of assets, average fees do look low — a little over 1% of assets for individuals and a little less than one-half of 1% for institutional investors. But the investors *already own those assets*, so investment management fees should really be based on what investors are getting in the returns that managers produce. (discussion at 1:10 mark of podcast)
 
 ## Calculated correctly, as a percentage of returns, fees no longer look low. Do the math. 
 
