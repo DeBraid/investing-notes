@@ -11,11 +11,6 @@ Basic formula for negative income tax is to apply tax rates on the basis of medi
 
 If the government handed out 100% of the deficit, they would destroy the incentive to work. 
 
-By capping the subsidy at half of median income, someone who earns $0 would receive $25,000 (borrowing the median income of $50k from above).  This is the maxmimum negative income tax.
+By capping the subsidy at half of median income, someone who earns $0 would receive $25,000 (borrowing the median income of $50k from above).  This is the maximum negative income tax.
 
-Such a revolutionary subisidy would eliminate the need for costly administration of welfare states, and effectively reduce the size of government, and public debts.  Creating a greater pool of capital in the hands of private citizens will increase consumption give people the greatest opportunity to deploy the capital into the most desired uses.
-
- 
-
-
-
+Such a revolutionary subsidy would eliminate the need for costly administration of welfare states, and effectively reduce the size of government, and public debts.  Creating a greater pool of capital in the hands of private citizens will increase consumption give people the greatest opportunity to deploy the capital into the most desired uses.
