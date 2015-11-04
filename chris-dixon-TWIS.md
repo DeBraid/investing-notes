@@ -12,17 +12,21 @@ Wrestled with the idea of starting another company vs. doing some investing.  Bu
 
 > The Betaworks-type model, done by Ev Williams, Kevin Ryan, et al is hard to pull off since your attention is divided. 
 
-Though about trying something like Betaworks.  However, the idea of mitigating risk by starting more than 1 company at a time is a likely a fantasy, very to do successfully.  More recruiting, less focus, many have tried, few succeeded at this buck-shot entrepreneurial style.
+Thought about trying something like [Betaworks, via Wikipedia](https://en.wikipedia.org/wiki/Betaworks): 
+
+> a hybrid investor/builder model has led to both investments in fast-growing startups (Tumblr, Airbnb, Groupon and Twitter) as well as more exclusive stakes in internally built startups (Chartbeat, Bitly and SocialFlow). Founded in 2007 by John Borthwick and Andy Weissman.  
+
+However, idea of mitigating risk by starting more than 1 company at a time is a likely a fantasy, very to do successfully.  More recruiting, less focus, many have tried, few succeeded at this buck-shot entrepreneurial style.
 
 ##  Why has a16z made others VCs nervous? 
 
-Simple way to view it: competitive aspects to new entrants. a16z est. in 2009, I think*).  Given only 10-20 good deals in all of VC per year.  Seqoua, Kleiner Perkins, Excel, etc. saw a new top-tier firm on the block.
+Simple way to view it: competitive aspects to new entrants. a16z established in 2009 shook the industry of well-entreched incumbants.  Given only 10-20 good deals in all of VC per year,  Sequoia Capital, Kleiner Perkins, Excel, et al, saw a new top-tier firm on the block with real potential to get quality deal flow.
 
-CD: more radical way, a brand new model of VCs.  "Entreps pick the VCs, not the other way around".  Back when, capital was scare, and VC were scare, and entrepreneurs were not as savvy. 
+CD: more radical way to view creation of a16z as a *brand new model* of VC.  
 
-Now term sheets are being shared, the pitch decks are more polished.  Information flow has increased, which in addition to abundant capital, means more fertile group for entrepreneurs.  
+> Entreps pick the VCs, not the other way around.  
 
-> How could you possibly hate on this?  It's a great trend for the world
+Previously, capital was scare, VC were scare, and entrepreneurs were not as savvy.  In 2013-present, term sheets are being shared, pitch decks are highly polished.  *Information flow* has increased, which in addition to abundant capital, means more fertile group for entrepreneurs.  
 
 ## About a16z
 
@@ -40,9 +44,9 @@ a16z strives to service entrepreneurs, not just as provider capital.  They do so
 
 Emphasize technology: CTO conferences daily, not annually like most VC firms.
 
-a16z is outsourcing all areas of start ups so CEOs and founders can focus on product and growth. The non-growth and non-product development elements of business: operating, raising capital, staffing, financial and regulatory, and legal guidance is off-loaded onto a16z.  
+a16z is outsourcing all areas of start ups so CEOs and founders can focus on *product and growth*. The non-growth and non-product development elements of operating a business like raising capital, staffing, financial, regulatory and legal guidance is off-loaded onto a16z.  
 
-Their investment in this area is rewarded by attracting the best entrepreneurs who are eager to out-source all the unsexy and difficult nonspecific jobs to be done.
+Their internal investment in these critical, but nonspecific, areas is rewarded by attracting the best entrepreneurs.  The CEOS and Founders are eager to out-source all the unsexy and difficult nonspecific jobs to be done.
 
 ## General Strategy 
 
@@ -58,9 +62,9 @@ CD: Citibank is better as co-investor than a direct competitor.
 
 Less MBAs, more former entrepreneurs.  
 
-CD:  Used to be modeled after a hedge fund: the best stock pickers got hired as VCs.  Now that capital is abundant, the winners are the VCs who can help the client the most.  Who does the entrepreneur want to work with? 
+CD:  Used to be modeled after a hedge fund: the best stock pickers got hired as VCs.  Now that capital is abundant, the winners are VCs who help the client the most.  Who does the entrepreneur want to work with? 
 
-Blogging is wildly underrated. *A sign perhaps that tech journalism is so awful that anyone who actually knows what they're talking about will gain respect and blow up. 
+Blogging is wildly underrated.  Perhaps a sign that tech journalism is so poor that anyone who actually knows what they're talking about will gain respect and blow up. 
 
 > CD: One of my rules is never say something negative about an early-stage startup.
 
