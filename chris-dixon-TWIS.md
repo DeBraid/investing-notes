@@ -71,3 +71,35 @@ Blogging is wildly underrated.  Perhaps a sign that tech journalism is so poor t
 Starting a company is so hard that writing negatively about a young startups is simply cruel, and rarely productive.  Tech world doesn't need more critical posts, especially about small startups.  It's fascintaing how small business is applauded universally in non-startup spaces, but technology firms tend to be viewed skeptically.  
 
 >  Tech startups are one of the few areas consistently creating jobs and improving the quality of life broadly.
+
+
+## Tension between VCs and Founders
+
+Why do VCs block sales of a company?
+
+CD: the VC has a portfolio, when they're approached by a founder with a desire to sell they are faced with reality of having 1 less portfolio company, and likely no future with this company.  In contrast, founders have a singular focus on that company, and are eager to cash out for various personal and financial reasons.  In many cases the founder is benefiting tremendously from a sale, and the VC less so.
+
+## M&A
+
+CD: Companies are trying to control the whole stack.  Startups can benefit from owning a piece of that stack and waiting for a major player to gobble them up. 
+
+*On Google*: Since Larry came back, the execution has been unbelievable.  Aside from core business, they're doing tons of futuristic stuff: mobile, maps, autonomous cars, etc.
+
+On apps and OS's: its driven by developers.  Whoever has the developers wins.  Hardware mostly commoditized.  
+
+*On Apple*: their native software is being crushed by google (maps, mail, browsers, etc).  No one likes the software (iOS is great, but the specific apps are not up to standards).  
+
+*On Amazon*: dominating retail, and cloud services, and still have their visionary founder.  
+
+## Closing
+
+Being a VC is so much better than being a founder.
+
+> Prior to starting my last company a friend told me get ready to feel sick to your stomach for the next 6 years.
+
+
+
+
+
+
+
