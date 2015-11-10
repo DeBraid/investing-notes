@@ -11,6 +11,7 @@ Thats important in our model, because we prefer the founder run the company.  Ar
 Courage and conviction were recurring themes.  Also the work of a16z to make life easy on founders by providing a deep CEO network.  Silicon Valley runs on network effects, the best firms are explicitly investing millions to capture and curate this (see YC alumni network).
 
 ## Marc Andressen on management trends: 
+as Stanford GSB via [Youtube](https://www.youtube.com/watch?v=JYYsXzt1VDc&ab_channel=StanfordGraduateSchoolofBusiness)
 
 During late 1990's tech bubble conventional wisdom on the C-suite went something like: founders can't run companies, therefore we'll premote the founder to VP of Eng, or CTO and bring in a professional business person to be the CEO.
 
@@ -31,10 +32,20 @@ Network effects are huge with former CEOs in the Valley.  The technical founders
 
 ### Identifying Founders 
 
-> Our day job is crushing entrepeneurs hopes and dreams.  We say no a lot.
+> Our day job is crushing entrepreneurs hopes and dreams.  We say no a lot.
 
 Basic math: only about 200 compenies per year that get funded by top VCs.  Half of these will fail outright, and the returns will be concentrated in 10-15 big winners.  They all need a huge market, great people and a differentiating technology. 
 
 > Ultimate decision is, and should be around, people.  Find people with courage and genius.  Courage without genius might not get you where you need to go, but genius without courage certainly won't.
 
+### There are no silver bullets, only lead bullets.  
 
+Many smart people will assume that Sherlock Holmes-esque, or MacGyver-type magic solutions will solve their problems.  This is dangerous thinking, as it more often not the case that a silver bullet will solve your problems.  In contrast, firing a bunch of lead bullets tends to work: more hours from engineers on product, more calls by sales reps, etc. 
+
+###  Avoid Hollywood-style of Me-Too Startups
+
+The best ideas are not clones of others.  Uber for parrots is not going to work.  Instead, we look for the *idea maze* route of discovery.  In this case, a founder has worked for years on an idea from the 'crazy starting point' to the end which is a great idea for a viable product that will work today. 
+
+A good way to spot this take a contrarian approach to coachable entrepreneurs.  If a VC provides an opinion or domain-specific optimization that is rejected by the entrepreneurs, this is a great sign.
+
+>  If during a pitch the founder gets angry at a potential undermining or ignorant question by a VC, this is a good sign, so long as they have a good explanation to support their incredulity. 
