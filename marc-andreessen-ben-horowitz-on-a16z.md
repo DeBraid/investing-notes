@@ -1,4 +1,4 @@
-## Ben Horowitz on a61z
+## Ben Horowitz on a16z
 in discussion with Kevin Rose via [Youtube](https://www.youtube.com/watch?v=QHXcMhs5orE&ab_channel=Revision3)
 
 Solid interview with good info throughout.  Enjoyed this bit near the end, paraphrasing Horowitz : "The thing I believe we do better, at a16z, we are very, very good at helping the technical founder become CEO. 
