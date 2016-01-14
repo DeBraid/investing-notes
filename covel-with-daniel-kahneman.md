@@ -8,7 +8,7 @@ We seem to be planning our vacations as constructing memories for use in later c
 
 In fact we spend a massively disproportionate amount of time on the consumption of experience relative to memories. 
 
-In terms of time spent: consumption of memories is negligible relative to time spent having experiences. 
+Consumption of memories is negligible relative to time spent having experiences. 
 
 Yet we put a disproportionate amount of weight on the consumption of memories. (Facebook/Instagram vs VR)
 
