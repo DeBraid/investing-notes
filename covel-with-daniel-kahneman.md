@@ -1,6 +1,6 @@
 # Michael Covel with Daniel Kahneman
 
-Observing the human condition with a trader and Section (starts 7:15) via [YouTube](https://www.youtube.com/watch?v=pvmcDEGxndo&ab_channel=MichaelCovel)
+Observing the human condition with a trader and behavioural psychologist. Section (starts 7:15) via [YouTube](https://www.youtube.com/watch?v=pvmcDEGxndo&ab_channel=MichaelCovel)
 
 ## Memory vs. Experience
 
