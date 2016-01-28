@@ -10,6 +10,14 @@ Start ups need to have a Technical Insight, then a Product, then a Business.  Ea
 
 ![McCallum 5 Keys to Management](https://pbs.twimg.com/media/CZ0wiKVUAAApTED.png:large)
 
+McCallum accidentally gave us a beautiful scorecard for general managers.  His five challenges:
+
+* Group works together on common goals.
+* People have the right amount of responsibility.
+* Team gets the job done.
+* General Manager knows how things are going along the way.
+* People feel respected.
+
 
 ### How to Think about Financing 
 
