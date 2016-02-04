@@ -1,6 +1,49 @@
 # Video with Reid Hoffman and Michael Dearing (Lecture + Q&A) [via YouTube](https://www.youtube.com/watch?v=3vCdfa_aeI8&ab_channel=GreylockPartners)
 
-Dearing gives a history of capitalism, makes a great case that enternpeneurs are critical for growth of social and financial capital. 
+Dearing gives a history of capitalism, makes a great case that entrepreneurs are critical for growth of social and financial capital. 
+
+Over 1000 years of economic history, there are 3 critical inflection points.  Here is a 5min video clip from Dearing VC firm, [Harrison Metal](https://www.harrisonmetal.com/library/capitalism).
+
+Per capital GDP was flat for 800 years after 1000BC.  Suddenly, in the 19th century, output per person accelerated rapidly. 
+
+1.  Creative and destructive genious of entrepenuer was enabled 
+	* textile, food, autos, computing, etc.
+
+Creative genius plus energy innovation created the accelerating GDP per capita.  New ideas spread and destoryed old ways of doing world.  This is Schumpeters Creative Destruction. 	
+Reads from Schumpter: 
+
+> A process of business mutation, to borrow a term from biology, that creates a cycle of Creative Destruction.
+
+The outcome is people you've never heard of starting businesses you can't believe are real completely unsettling the economic outputs by remodelling the economy itself.
+
+## How Does Innovation Happen
+
+1.  Cheap energy helps
+2.  Sharing of ideas (less manual labour on farms -> more intellectual efforts)
+3.  Technical innovation (transportation, mechanization of spinning cotton)
+
+### Al Chandler: founded disciple of business history at Harvard.
+
+Schumpeter is right: entrepreneurs play KEY role in industrial processes, and growing the economy, but managers play a similarly vital role in scaling these innovations.  Proper management is required to scale.
+
+Chandler believes that managerial capitalism is a fundamental invention that came with industrial capitalism. 
+
+> Chandler calls managerial capitalism: **The Visible Hand**
+
+General managers amplified the creative/destructive genius and amplified the productivity of capital.
+
+## Humans invest surplus wealth to make things better.
+
+Output increases fund health care, education and all kinds of social movements.  They are funded by the fortunes of industrialization.  Capitalism creates the cures for the worst parts of human condition. 
+
+
+Dearing says capitalism is like a self-cleaning oven, in 3 wonderful steps:
+
+1. creative / destructive power of entrepreneurs 
+2. visible hand of managers
+3. investing industrial wealth to build civilization 
+
+### Start Up Stages (3)
 
 Start ups need to have a Technical Insight, then a Product, then a Business.  Each stage is unique and present various new challenges. 
 
