@@ -75,6 +75,37 @@ Founders should treat themselves to investors who rise and sink with their stake
 
 VC math should be simple: Total Investment / ownership %.  
 
+## Advice for Founders (Q&A with Reid Hoffman)
+
+What should founders do to increase likelihood of success? 
+
+### Embrace the Devils Advocate 
+
+Dearing recommends that founders find someone who they can rely upon to provide a dissenting opinion.  Give this person explicit social permission dissent!  so they aren't know as the asshole, but as a smart person who can point out real flaws in an idea.
+
+### Pre-mordem 
+
+What are the risks that will kill this venture?  Before starting make a list of fatal flaws, and address them before the arise (to best of your ability).
+
+### Competition 
+
+The perfectly competitive product that promises what your product promises is often not (almost never) the actual competition.  Instead, the (potential) user is more likely to not use EITHER product.  The default is to do nothing.
+
+Discount large companies, but do think about other startups.
+
+### Advice for eBay
+
+Let the market allocate capital, not one unit or manager.  Rolling out PayPal is smart.  Layoff some staff, too bloated. 
+
+### Product Development 
+
+Create a competitive market internal to the firm.  When allocating resources: capital, development time, etc, create internal competition.  If people are held accountable to the economic value of their ideas, then over time we know where to allocate resources since patterns emerge as to how effectively people can judge their own outputs. 
+
+Founders should be dictators, since mission matters.  Small number of autocrats (1 or 2) is large part of success in early stages, but can be problematic at scale.  Once a business grows the needs for more decision makers (professional management!) becomes increasingly pertinent.
+
+ 
+
+## Footnotes: 
 
 Related [tweetstorm](https://twitter.com/Royal_Arse/status/692763282101395459). 
 
