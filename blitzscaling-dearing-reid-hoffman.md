@@ -10,13 +10,11 @@ Dearing says capitalism is like a self-cleaning oven, in 3 wonderful steps:
 
 Over 1000 years of economic history, there are 3 critical inflection points.  Here is a 5min video clip from Dearing VC firm Harrison Metal, via [5min video](https://www.harrisonmetal.com/library/capitalism).
 
-Per capital GDP was flat for 800 years after 1000BC.  Suddenly, in the 19th century, output per person accelerated rapidly. 
+Per capital GDP was flat for 800 years after 1000BC.  There were plenty of smart people and critical innovations, but the firms they created often topped out around 30 people.  Suddenly, in the 19th century, output per person accelerated rapidly. 
 
-1.  Creative and destructive genious of entrepreneur was enabled 
-	* textile, food, autos, computing, etc.
+Creative genius plus energy innovation created the accelerating GDP per capita.  The idea that inventors could be enabled by investors and managers started to be embraced.  Now projects could be financed (changes in unit economics and timelines) and well-managed (professional managers increase efficiency of resource utilization) creating explosive growth in the size and number of firms.  
 
-Creative genius plus energy innovation created the accelerating GDP per capita.  New ideas spread and destroyed old ways of doing world.  This is Schumpeters Creative Destruction. 	
-Reads from Schumpeters: 
+New ideas spread and destroyed old ways of doing world.  This is Schumpeters Creative Destruction.  Dearing reads from Schumpeter: 
 
 > A process of business mutation, to borrow a term from biology, that creates a cycle of Creative Destruction.
 
