@@ -103,7 +103,39 @@ Create a competitive market internal to the firm.  When allocating resources: ca
 
 Founders should be dictators, since mission matters.  Small number of autocrats (1 or 2) is large part of success in early stages, but can be problematic at scale.  Once a business grows the needs for more decision makers (professional management!) becomes increasingly pertinent.
 
- 
+### Contrarian Ideas Becoming Mainstream 
+
+It may not be critical to a startup, but it can be.  Leads investors to value, since the herd overbids for popular ideas/companies/themes.
+
+Dearing thinks contrarian ideas are most helpful in understanding the entrepreneurs thought process.  Hoffman thinks finding something specifically contrarian might go to far, given that certain core axioms like great UI/UX, product-market fit are always important, no benefit from being contrarian here.
+
+### Qualities in Founders
+
+Dearing:
+* personal exceptionalism: not destined for normal outcome in life.
+* black and white thinking: proxy for speed of decision making, even thought error rate might be higher
+* Schumpeterian mindset: no matter what the pain, I am so excited about building the new thing that the grind of creating it is worthwhile!
+
+Hoffman: 
+* key foundational skill sets in the founding team: does this team have X essential skills to tackle this problem?
+* generalists on founding team: laundry list of problems will arise, can this person or team solve them?  Can hire specialists as you scale.
+
+### First Few Hires 
+
+Dearing: I get very worried when people have a shopping list: 
+
+> I need 32oz of front end, I need 1 lb of back end....
+
+Success more often arises when you find people from your network, or 1 degree separated from your network because passion is transmitted directly.  Hoffman thinks that personal relationship are key in early hires because there will be tough times, need people who are committed through the ups and downs. 
+
+Talk to people about their lives.  People repeat the same strengths of weaknesses over-and-over again.  
+
+* "Tell me about a time when..." (trouble, success, personal hardship, etc )
+* what are you most proud of
+* what do you do in your spare time?
+* what electives did you take in college / uni ?
+
+
 
 ## Footnotes: 
 
