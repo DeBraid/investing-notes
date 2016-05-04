@@ -42,8 +42,24 @@ An example of a tax on something good: dividend income.  Does this sound like an
 
 ## Solution 
 
-Excess complexity create inefficiency.  A simplified approach to taxation would benefit everyone domestically, and attract investment from abroad.  Whomever figures this out first wins a global chess match for (productive) white-collar workers, not the accountants*.  For to read more on the [negative income tax][1], aka 'The Revolutionary Subsidy' as coined by Milton Friedman. 
+Excess complexity create inefficiency.  A simplified approach to taxation would benefit everyone domestically, and attract investment from abroad.  Whomever figures this out first wins a global chess match for (productive) white-collar workers, not the accountants*.  For to read more on the [negative income tax][1], aka 'The Revolutionary Subsidy' as coined by Milton Friedman.
+
+## The Catalyst 
+
+Generally technology and spefcifically bitcoin will likely be the enabling technology to make this happen.  Innovation in the tax code is coming, because capital always seeks equilibrium, and permissionless ledgers with units of account like bitcoin are novel media given the job to be done.  
+
+Several converging trends make the time ripe for such innovation:
+
+1. Bitcoin
+	* a global currency for the Internet
+
+2. Cashless Economies 
+	* cashless nation states are emerging organically and through high-level politics. Digitizing the global payment infrastructure is only a few decades old and rapidly evolving.  Cashless economies are coming hard and fast, even for those who prefer to hold paper notes and coins.  
+
+Whether you call your money Greenbacks, Rupee, bitcoin, or [m-pesa][2], it's probably not going be physical for much longer.  This has dramatic implications for commerce due to ease of taxation and simplification of accounting.   
 
 [1]:https://github.com/DeBraid/investing-notes/blob/master/negative-income-tax.md
+[2]:https://en.wikipedia.org/wiki/M-Pesa
 
-* Sorry accountants and tax professionals: a simplification of the tax code will significantly hurt your industry.  However, you're all smart folks with business savvy, so you'll do fine.  The rest of the economy will thank you. 
+
+> Sorry accountants and tax professionals: a simplification of the tax code will significantly hurt your industry.  However, you're all smart folks with business savvy, so you'll do fine.  The rest of the economy will thank you. 
