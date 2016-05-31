@@ -19,4 +19,4 @@ Such a revolutionary subsidy would eliminate the need for costly administration 
 
 > In our pilot, the income will be unconditional; we’re going to give it to participants for the duration of the study, no matter what. People will be able to volunteer, work, not work, move to another country—anything. We hope basic income promotes freedom, and we want to see how people experience that freedom. 
 
-[1]:blog.ycombinator.com/moving-forward-on-basic-income
+[1]:http://blog.ycombinator.com/moving-forward-on-basic-income
