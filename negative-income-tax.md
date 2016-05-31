@@ -14,3 +14,9 @@ If the government handed out 100% of the deficit, they would destroy the incenti
 By capping the subsidy at half of median income, someone who earns $0 would receive $25,000 (borrowing the median income of $50k from above).  This is the maximum negative income tax.
 
 Such a revolutionary subsidy would eliminate the need for costly administration of welfare states, and effectively reduce the size of government, and public debts.  Creating a greater pool of capital in the hands of private citizens will increase consumption give people the greatest opportunity to deploy the capital into the most desired uses.
+
+### YC: Basic Income [Experiment][1] 
+
+> In our pilot, the income will be unconditional; we’re going to give it to participants for the duration of the study, no matter what. People will be able to volunteer, work, not work, move to another country—anything. We hope basic income promotes freedom, and we want to see how people experience that freedom. 
+
+[1]:blog.ycombinator.com/moving-forward-on-basic-income
