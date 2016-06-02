@@ -1,8 +1,8 @@
 # a16z Podcast: Startups and Pendulum Swings Through Ideas, Time, Fame, and Money 
 
-[Link][1] 
+[Podcast Link][1] 
 
-# How Should Founders Think About Startups 
+### How Should Founders Think About Startups 
 
 From either the perspective of the founder, entrepreneur or investor, how should we think about startups? 
 
@@ -34,11 +34,31 @@ The math is 50/50 in VC.  The failure rate is very high.  So you also need to in
 
 A legitimizing event.  Customers feel like they can understand the business and be more comfortable buying as a result.
 
-Having stock creates value that you can leverage, it is a currency to be used.
+Having stock creates value that you can leverage, it is a currency to be used (for M&A perhaps).
 
 Number of public companies peaked in 1997.  Now down by 2/3rds (most companies go out of business).
 
 Historically tech IPOs were individuals, now it's mostly funds.  This is a sign of less speculation in technology. 
+
+Staying private means bigger, more audacious projects.
+
+Going public means discipline and rigor of 12-week corporate springs (reporting, analysts, etc).
+
+### Future of Raising Capital   
+
+DAO -- new experimental method for financing (maybe 5-10 years out from mainstream adoption). 
+
+### Bitcoin 
+
+BTC is a fundamental technology.  We're in the TROUGH of the Gartner Hype Cycle, turns out its really hard to work with this emergent technology.
+
+Blockchain is at the top the of hype cycles.  Implementations have been limited. 
+
+
+Another way to find value is to look in the dumpster (cigar butts).  Things that have been written-off could revive as the hype cycle propagates. Do a start up 
+
+### AI / VR / ML / 
+
 
 
 
