@@ -1,7 +1,6 @@
-Canada’s Innovation Conundrum: Five Years After the Jenkins Report
+# Canada’s Innovation Conundrum: Five Years After the Jenkins Report
 
-Andrei Sulzenko June 9th, 2016 
-http://irpp.org/research-studies/report-2016-06-09/
+by Andrei Sulzenko, published June 9th, 2016. [Full PDF][1]. 
 
 > In conclusion, then, improved innovation is the only sustainable source for Canada’s
 
@@ -56,3 +55,4 @@ public policy.
 Further initiatives to support startup funding "would likely have greater long-term economic payoff than equivalent expenditures on R&D support."
 Related: https://twitter.com/Royal_Arse/status/742375703459598336
 
+[1]: http://irpp.org/research-studies/report-2016-06-09/
