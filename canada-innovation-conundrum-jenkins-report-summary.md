@@ -2,10 +2,10 @@
 
 by Andrei Sulzenko, published June 9th, 2016. [Full PDF][1]. 
 
-> In conclusion, then, improved innovation is the only sustainable source for Canada’s
+> In conclusion, then, improved innovation is the only sustainable source for Canada’s future economic growth
 
-future economic growth
-R&D spending in Canada peaked during DOTCOM era! https://twitter.com/Royal_Arse/status/742379492866445313
+Sadly R&D spending in Canada peaked during DOTCOM era! This [chart][2] shows the lasting decline in various industries. 
+
 
 -> Canada has much higher corporate profits relative to GDP than US. https://twitter.com/Royal_Arse/status/742406657360203776
 
@@ -56,3 +56,4 @@ Further initiatives to support startup funding "would likely have greater long-t
 Related: https://twitter.com/Royal_Arse/status/742375703459598336
 
 [1]: http://irpp.org/research-studies/report-2016-06-09/
+[2]: https://twitter.com/Royal_Arse/status/742379492866445313
