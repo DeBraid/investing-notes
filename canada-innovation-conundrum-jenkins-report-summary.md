@@ -6,7 +6,7 @@ by Andrei Sulzenko, published June 9th, 2016. [Full PDF][1].
 
 Sadly private financing for risky business is fleeting and corporate R&D spending in Canada peaked during DOTCOM era! This [chart][2] shows the lasting decline in various industries. 
 
-Canada has much higher corporate profits relative to GDP than US. https://twitter.com/Royal_Arse/status/742406657360203776
+Canada has [much higher corporate profits][4] relative to GDP than US. 
 
 This is due to many sectors operating with benefit of oligopoly status: telecommunications, financial services, agriculture and transportation.
 
@@ -78,4 +78,5 @@ R&D is not the holy grail for most modern businesses, rather innovation is drive
 [1]: http://irpp.org/research-studies/report-2016-06-09/
 [2]: https://twitter.com/Royal_Arse/status/742379492866445313
 [3]: https://twitter.com/Royal_Arse/status/742375703459598336
+[4]: https://twitter.com/Royal_Arse/status/742406657360203776
 [Full Report]: http://irpp.org/wp-content/uploads/2016/05/report-2016-06-09.pdf
