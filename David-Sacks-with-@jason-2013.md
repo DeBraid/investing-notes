@@ -30,7 +30,7 @@ Probably the single hardest of the 4.  Big Internet out there, how do people fin
 
 Solving the distribution problem is essential to success.
 
-4. 'NON-Copyability' 
+> 'NON-Copyability' 
 
 Does the product have a moat, can it be a monopoly? Can someone just copy your idea and eat your lunch?  What makes your product fundamentally non-copyable? 
 
