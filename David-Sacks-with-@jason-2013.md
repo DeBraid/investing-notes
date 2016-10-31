@@ -1,6 +1,6 @@
 ## Startups - David Sacks - TWiST#354
 
-Video via [Youtube][1] 
+Video via [Youtube][1], related [tweetstorm][2].
 
 ## General Startup Advice 
 
@@ -39,3 +39,4 @@ A network effect is the best defense.  First-mover advantage, could help.  How m
 
 
 [1]:https://www.youtube.com/watch?v=Jm4gepoa7hk
+[2]:https://twitter.com/Royal_Arse/status/793112904673492992
