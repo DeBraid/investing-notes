@@ -1,4 +1,4 @@
-People vote with their dollars far more than ballots.
+# People vote with their dollars far more than ballots.
 
 I fashion myself more taxpayer advocate, which you've correctly identified as a subclass of SJW. I feel justified in targeting the public sector for many reasons. Key takeaway from your reply is the tone of the messaging.
 
@@ -6,7 +6,7 @@ I fashion myself more taxpayer advocate, which you've correctly identified as a 
 
 This is true.  My advocacy can take an adversarial tone (my nature to be competitive!) and that can cloud the message.  These are contra to my mission to lower taxes and ensure financial security for all.
 
-Why focus on public sector?
+## Why focus on public sector?
 
 Mostly it comes down to choice and accountability. 
 
@@ -14,7 +14,7 @@ The key difference between public vs. private is choice.  One is free to choose 
 
 Because of this, I target the public sector.  Democracy is great, but has flaws.  We vote with our wallets many times a day/week, but rarely get to vote on issues or political leaders (more unelected public officials than elected... ugh).
 
-Accountability and Transparency 
+## Accountability and Transparency 
 
 Corporations have a legal obligation to put themselves and their profits first, they have shareholders who exercise votes daily by buying and selling the stock.  The same is not true for politicians, who market themselves as 'servants to their constituents', and have fixed election terms measured in years.  The actions of corporations are in line with our expectations, but the actions of public figures are not.  
 
@@ -24,7 +24,7 @@ Public sector is the worst of the two bad actors.  Deceiving voters by saying 1 
 
 Private corps are the relatively good actors (esp. since most private corps are not Exxon or Goldman Sachs, but small biz, with <100 employees). Private corps reports their audited financials in mandated disclosures every 12 weeks, without exception, re-state their mission and goals.  They hold a conference call where shareholders and professional business analysts can ask questions directly to the CEO and other company leaders.
 
-Case Study: VW Emissions Scandal 
+# Case Study: VW Emissions Scandal 
 
 > "I didnt see Volkswagen punished by consumers."
 
