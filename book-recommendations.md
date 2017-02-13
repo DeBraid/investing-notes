@@ -3,6 +3,7 @@
 Here is a randomly ordered list of books that I enjoyed and frequently recommend to others.   
 ## Life Changers
 
+* The Sovereign Individual (my notes here)[https://github.com/DeBraid/tech-notes/blob/master/the-sovereign-individual.md] - Davidson & Rees-Moog
 * Fooled By Randomness - Taleb
 * Extraordinary Popular Delusions and the Madness of Crowds - MacKay
 * Signs of Life - Sole and Goodwin
@@ -30,6 +31,7 @@ Here is a randomly ordered list of books that I enjoyed and frequently recommend
 
 ## Lighter Reads
 
+* The Undoing Project - Lewis 
 * Liars Poker - Lewis 
 * Freakonomics (original) - Levitt & Dubner 
 * Blink - Gladwell
