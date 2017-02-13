@@ -3,7 +3,7 @@
 Here is a randomly ordered list of books that I enjoyed and frequently recommend to others.   
 ## Life Changers
 
-* The Sovereign Individual - Davidson & Rees-Moog ([my notes here][https://github.com/DeBraid/tech-notes/blob/master/the-sovereign-individual.md])
+* The Sovereign Individual - Davidson & Rees-Moog -- [my notes here](https://github.com/DeBraid/tech-notes/blob/master/the-sovereign-individual.md)
 * Fooled By Randomness - Taleb
 * Extraordinary Popular Delusions and the Madness of Crowds - MacKay
 * Signs of Life - Sole and Goodwin
