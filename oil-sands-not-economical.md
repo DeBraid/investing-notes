@@ -1,4 +1,16 @@
-Two questions here: 
+# Alberta Oil is the Tar Sands Again
+
+Posit: renewable energy is becoming economically competitive -- and superior to -- fossil fuels.  Demand for oil is in secular decline, will hit the Athabasca Tar Sands first, and hardest.
+
+## Why Target the Tar Sands? 
+
+Tar sands oil is too expensive to produce relative to other options.  Oil from Northern Alberta is among the most costly to produce on earth, according to [Wall Street Journal][WSJ]:
+
+> Most production growth in Canada comes from oil sands deposits in the remote boreal forests of northern Alberta, which have some of the industry's highest capital costs and longest development timelines.
+
+<img src="./../oil-prod-cost.png">
+
+### Two Policy Questions
 
 a. how should governments respond to economic stress
 b. is Canadian oil economical? How soon until oil is obsolete?  
@@ -24,11 +36,7 @@ Two ways to look at the economic stuggles of Alberta.
 
 Are we ok with the ethics of pumping and burning fossil fuels?  How can we reconcile the desire for cheap energy, thus low cost goods and services, with the need for a healthy planet? 
 
-"Policy is hurting the Canadian oil industry" is a fabrication created by the Cdn oil indsutry. 
-
-Lack of salable product is the issue.  Athabasca tar sands are among the most costly to produce on earth, according to Wall Street Journal:
-
-> Most production growth in Canada comes from oil sands deposits in the remote boreal forests of northern Alberta, which have some of the industry's highest capital costs and longest development timelines.  
+"Policy is hurting the Canadian oil industry" is a fabrication created by the Cdn oil indsutry.   
 
 Because of this, Canadian crude trades at a substantial discount to other North American grades due to its low quality and limited pipeline access to market. graphics.wsj.com/oil-barrel-breakdown/   
 
@@ -94,3 +102,4 @@ This is not a wonk radical spewing non-sense, this talk is backed by real trends
 
 
 
+[WSJ]:http://graphics.wsj.com/oil-barrel-breakdown/
