@@ -10,10 +10,11 @@ Tar sands oil is too expensive to produce relative to other options.  Oil from N
 
 <img src="images/oil-prod-cost.png">
 
-### Two Policy Questions
+### Policy Questions
 
-a. how should governments respond to economic stress
-b. is Canadian oil economical? How soon until oil is obsolete?  
+1. how should governments respond to economic stress
+
+2. is Canadian oil economical? How soon until oil is obsolete?  
 
 My goal is to help the people of Alberta, and anyone negatively impacted by lower prices have a prosperous future.   
 
