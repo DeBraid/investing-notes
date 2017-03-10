@@ -8,7 +8,7 @@ Tar sands oil is too expensive to produce relative to other options.  Oil from N
 
 > Most production growth in Canada comes from oil sands deposits in the remote boreal forests of northern Alberta, which have some of the industry's highest capital costs and longest development timelines.
 
-<img src="./../oil-prod-cost.png">
+<img src="images/oil-prod-cost.png">
 
 ### Two Policy Questions
 
