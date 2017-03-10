@@ -5,7 +5,7 @@
 Posit: 
 * renewable energy is becoming economically competitive -- and superior to -- fossil fuels.  
 * demand for oil is in secular decline
-* the Athabasca Tar Sands first/early, and hard/hardest.
+* the Alberta Tar Sands will get hit first/early and hard/hardest
 
 ## Why Target the Tar Sands? 
 
