@@ -8,6 +8,11 @@ Chilton is huge on user testing.  Both for books and products.  He likes to inve
 
 > "My due diligence is borderline crazy.  I will call brokerage firms, diplomats, consulates, IMF ambassadors, etc.  Few people are willing to do this kind of due diligence."
 
+### Where to start with due diligence in new sector?
+
+Read a lot of books.  Call everyone involved in the project.  No DD via email.
+
+Email is a distraction for most people, by contrast a phone conversation requires focus and attention.  Lots more information is divulged verbally vs. written.
 
 ## Publishing is Broken, Listen to the Readers
 
